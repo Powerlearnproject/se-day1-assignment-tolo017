@@ -12,25 +12,34 @@ Software engineering is a systematic disciplined approach to designing, developi
 4. Security - Incorporates security protocols to protect against breaches.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Mastering machine(1956-1967) - Hardware dependent high level languages.
-Mastering process(1968-1982) - Development process software engineering.
-Mastering complexity(1983-1992) - Expanding data and functional convergence.
+1. Mastering machine(1956-1967) - Hardware dependent high level languages.
+2. Mastering process(1968-1982) - Development process software engineering.
+3. Mastering complexity(1983-1992) - Expanding data and functional convergence.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 Planning - Define project goals, scope, timeline, and budget of the current system if applicable.
+
 Requirement gathering - Identify the final user needs.
+
 Design - Creating the framework.
+
 Development(Coding) - Translating the design into actual code.
+
 Testing - Evaluating the software to identify and fix bugs.
+
 Deployment - Distributing the software to the production environment to make it available for users.
+
 Maintenance - Ongoing support after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 The Waterfall Methodology is a linear, sequential approach where projects progress through distinct phases without revisiting previous stages. Ideal for projects with fixed requirements and minimal expected changes, like construction.
 
 The Agile model places emphasis on flexible, iterative progress by breaking down the project into smaller, more manageable units of work. Suited for dynamic environments where requirements evolve, like software development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer - Responsible for writing the code and developing the entire software product.
  > Developing applications, programs and systems using programming languages and frameworks.
  > Maintaining and updating software to keep it functional.
@@ -52,7 +61,9 @@ Project Manager - Oversees project execution, timelines, and team coordination.
  > Resolves conflicts and foster collaborations.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 An IDE is a software application that helps programmers develop software code efficiently. Example, Visual Studio Code.
+
  Importance:
 > Code editing automation
 > Syntax highlighting
@@ -61,7 +72,8 @@ An IDE is a software application that helps programmers develop software code ef
 > Debugging
 
 A VCS are software tools that help software teams manage changes to source code over time.
- Imortance:
+ 
+ Importance:
 > Collaboration
 > Change Tracking
 > Branching and Merging
